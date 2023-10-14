@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "foodpedia",
+    "name": "FoodPedia",
     "slug": "foodpedia",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/welcome.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
